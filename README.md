@@ -13,5 +13,5 @@ The screen region can be hand drawn:
 <img src="https://github.com/tauroid/ClipgameMaker/assets/4631050/9fc58363-4d53-4c55-9c57-f69b9b1e81bb" width="300" alt="A man standing in a puddle, with a vector drawn irregular shape surrounding his silhouette. There is a video timeline at the bottom, with grey regions signifying periods of time the shape is present, as well as a yellow marker for the current frame." />
 
 
-There are also unconditional jump frames, for cutting together clips and looping.
+There are also unconditional jump frames which automatically take you to another location, for cutting together clips and looping.
 
