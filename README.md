@@ -1,6 +1,6 @@
 # Clipgame Maker
 
-Prototype app for stitching together video clips into games.
+Prototype app for stitching together video clips to make games.
 
 Not maintained and unlikely to build, but still works on my phone:
 
