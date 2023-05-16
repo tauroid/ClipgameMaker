@@ -10,7 +10,7 @@ The basic premise is that gestures on screen regions take you to a timestamp in 
 
 The screen region can be hand drawn:
 
-![Screenshot_20230516-195740_Clipgame Maker](https://github.com/tauroid/ClipgameMaker/assets/4631050/c53b1e9d-d583-43dc-9c60-9d89366c2f56 | width=300)
+<img src="https://github.com/tauroid/ClipgameMaker/assets/4631050/c53b1e9d-d583-43dc-9c60-9d89366c2f56" width="200" />
 
 There are also unconditional jump frames, for cutting together clips and looping.
 
