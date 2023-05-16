@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="filmstrip_bar_width">5dp</dimen>
+    <dimen name="filmstrip_top_margin">5dp</dimen>
+    <dimen name="glyph_move_dead_zone">20dp</dimen>
+    <dimen name="glyph_delete_circle_radius">30dp</dimen>
+    <dimen name="drawn_min_radius">15dp</dimen>
+    <dimen name="drawn_max_radius">80dp</dimen>
+</resources>

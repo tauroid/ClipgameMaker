@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    style="?attr/actionBarStyle">
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:onClick="addSnapshot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_add_white_24dp"
+        android:background="@null"/>
+
+    <Space
+        android:layout_width="10dp"
+        android:layout_height="wrap_content" />
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:onClick="removeSnapshot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_remove_white_24dp"
+        android:background="@null"/>
+
+    <android.support.v7.widget.AppCompatSpinner
+        android:id="@+id/snapshot_list"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"/>
+
+    <android.support.v7.widget.AppCompatImageButton
+        android:onClick="playSnapshot"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/ic_play_arrow_white_24dp"
+        android:background="@null"/>
+</LinearLayout>

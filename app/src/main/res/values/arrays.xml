@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="recordoruseexistingclip">
+        <item>Record clip</item>
+        <item>Use existing clip</item>
+    </string-array>
+    <string-array name="renameordelete">
+        <item>Rename</item>
+        <item>Delete</item>
+    </string-array>
+    <string-array name="chooseframelink">
+        <item>Start frame</item>
+        <item>Link frame</item>
+        <item>Stop frame</item>
+    </string-array>
+    <string-array name="chooselinktype">
+        <item>Direct link</item>
+        <item>Random choice</item>
+    </string-array>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="clearBlue">#9944BBFF</color>
+    <color name="seekbarColor">#BBBB00</color>
+    <color name="gestureBarColor">#BBBBBB</color>
+    <color name="gestureWindowColor">#55BBBBBB</color>
+    <color name="startFrameColor">#66BB22</color>
+    <color name="linkFrameColor">#5599BB</color>
+    <color name="stopFrameColor">#BB0909</color>
+    <color name="greyListItem">#BBBBBB</color>
+    <color name="justBlack">#000000</color>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Clipgame Maker</string>
+    <string name="play_btn_text">Play</string>
+    <string name="create_btn_text">Create clipgame</string>
+    <string name="games_in_progress">Games in progress</string>
+    <string name="create_flatgame_dialog_text">Creating new clipgame</string>
+    <string name="name_">Name: </string>
+    <string name="create">Create</string>
+    <string name="rename">Rename</string>
+    <string name="delete">Delete</string>
+    <string name="cancel">Cancel</string>
+    <string name="add_clip">Add clip</string>
+    <string name="publish">Publish</string>
+    <string name="areyousure_delete">Are you sure you want to delete this entry?</string>
+    <string name="make_snapshot">Making snapshot</string>
+    <string name="snapshot">Snapshot</string>
+    <string name="write_a_name">You have to write a name</string>
+    <string name="invalid_name">Invalid name, try again</string>
+    <string name="flatgame_already_exists">A clipgame by this name already exists</string>
+    <string name="inserting_control_frame">Inserting control frame</string>
+    <string name="creating_link_frame">Creating link frame</string>
+    <string name="creating_tap_gesture">Creating tap gesture</string>
+    <string name="creating_fling_gesture">Creating fling gesture</string>
+    <string name="creating_direct_link">Creating direct link</string>
+    <string name="creating_random_link">Creating random link</string>
+    <string name="no_start_frame">No start frame detected</string>
+    <string name="games">Games</string>
+    <string name="published">Published game to </string>
+    <string name="couldnt_publish">Failed to publish the game to your documents</string>
+    <string name="problem_reading_clipgame">There was a problem importing the clipgame file</string>
+    <string name="set_dest_to_image">Image set as link destination</string>
+</resources>
